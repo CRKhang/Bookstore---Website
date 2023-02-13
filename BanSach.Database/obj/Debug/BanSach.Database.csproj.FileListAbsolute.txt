@@ -1,0 +1,80 @@
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\bin\Debug\BanSach.Database.dll.config
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\bin\Debug\BanSach.Database.dll
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\bin\Debug\BanSach.Database.pdb
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\bin\Debug\BanSach.Entities.dll
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\bin\Debug\BanSach.Entities.pdb
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.initialized.resources
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.addedIsfeatured.resources
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.ImageURLAdded.resources
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.addedBasicValidations.resources
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.CategoryID.resources
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.configurationstable.resources
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.AddNewProperUser.resources
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.addOrderAndOrderItem.resources
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.quantityOrderItem.resources
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.addOrderDetail.resources
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.csproj.CopyComplete
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.dll
+C:\Users\Admin\Desktop\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.pdb
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\bin\Debug\BanSach.Database.dll.config
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\bin\Debug\BanSach.Database.dll
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\bin\Debug\BanSach.Database.pdb
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\bin\Debug\BanSach.Entities.dll
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\bin\Debug\EntityFramework.dll
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\bin\Debug\BanSach.Entities.pdb
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\bin\Debug\EntityFramework.xml
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.csprojAssemblyReference.cache
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.initialized.resources
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.addedIsfeatured.resources
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.ImageURLAdded.resources
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.addedBasicValidations.resources
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.CategoryID.resources
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.configurationstable.resources
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.AddNewProperUser.resources
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.addOrderAndOrderItem.resources
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.quantityOrderItem.resources
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.addOrderDetail.resources
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.descriptionmax.resources
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.bansach.resources
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.author.resources
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.csproj.GenerateResource.cache
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.csproj.CopyComplete
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.dll
+C:\Users\My PC\Downloads\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.pdb
+D:\WebBanSach\BanSach.Database\bin\Debug\BanSach.Database.dll.config
+D:\WebBanSach\BanSach.Database\bin\Debug\BanSach.Database.dll
+D:\WebBanSach\BanSach.Database\bin\Debug\BanSach.Database.pdb
+D:\WebBanSach\BanSach.Database\bin\Debug\BanSach.Entities.dll
+D:\WebBanSach\BanSach.Database\bin\Debug\EntityFramework.dll
+D:\WebBanSach\BanSach.Database\bin\Debug\EntityFramework.SqlServer.dll
+D:\WebBanSach\BanSach.Database\bin\Debug\BanSach.Entities.pdb
+D:\WebBanSach\BanSach.Database\bin\Debug\EntityFramework.xml
+D:\WebBanSach\BanSach.Database\bin\Debug\EntityFramework.SqlServer.xml
+D:\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.initialized.resources
+D:\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.addedIsfeatured.resources
+D:\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.ImageURLAdded.resources
+D:\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.addedBasicValidations.resources
+D:\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.CategoryID.resources
+D:\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.configurationstable.resources
+D:\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.AddNewProperUser.resources
+D:\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.addOrderAndOrderItem.resources
+D:\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.quantityOrderItem.resources
+D:\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.addOrderDetail.resources
+D:\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.descriptionmax.resources
+D:\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.bansach.resources
+D:\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.Migrations.author.resources
+D:\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.csproj.GenerateResource.cache
+D:\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.csproj.CopyComplete
+D:\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.dll
+D:\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.pdb
+D:\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.csproj.AssemblyReference.cache
+D:\WebBanSach\BanSach.Database\obj\Debug\BanSach.Database.csproj.CoreCompileInputs.cache

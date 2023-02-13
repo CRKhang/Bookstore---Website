@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=DESKTOP-4LBF8B0;Initial Catalog=aspnet-BanSach.Web-db47ae24-02fb-4f4c-b586-d6b362b65917;Integrated Security=True;AttachDBFilename=|DataDirectory|\aspnet-BanSach.Web-db47ae24-02fb-4f4c-b586-d6b362b65917.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\WebBanSach\\BanSach\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="BanSachConnection-Web.config Connection String" description="BanSachConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=DESKTOP-4LBF8B0;Initial Catalog=BanSach-Database;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\WebBanSach\\BanSach\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BanSachConnection']/@connectionString" />
+  </parameter>
+</parameters>
